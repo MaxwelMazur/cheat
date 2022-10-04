@@ -1,0 +1,4 @@
+github.com/wade-welles/rogue-go v0.0.0-20190923145200-395b44a3a867 h1:qpZ6AEyaFURN37J4fTD3PYJug+ctLi2L+P7S04OI0uc=
+github.com/wade-welles/rogue-go v0.0.0-20190923145200-395b44a3a867/go.mod h1:qAgrf8tIKQOwf/Ud6JyfmbqZiRfuGOKe+XHSH5F0NHY=
+golang.org/x/sys v0.0.0-20220919091848-fb04ddd9f9c8 h1:h+EGohizhe9XlX18rfpa8k8RAc5XyaeamM+0VHRd4lc=
+golang.org/x/sys v0.0.0-20220919091848-fb04ddd9f9c8/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
